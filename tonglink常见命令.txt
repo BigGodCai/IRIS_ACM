@@ -1,0 +1,6 @@
+查看发送进程状态 ：参数1为发送进程编号
+	tlqstat -snd QCUB 1
+
+
+查看接收进程状态 ：
+	tlqstat -rcv qcuName rcvProcId
